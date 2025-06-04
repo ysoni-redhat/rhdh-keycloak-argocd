@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: keycloak
-    repoURL: https://github.com/<your-github-account-user>/rhdh-keycloak-argocd.git
+    repoURL: https://github.com/ysoni-redhat/rhdh-keycloak-argocd.git
     targetRevision: main
   syncPolicy:
     automated:
