@@ -11,7 +11,7 @@ spec:
   source:
     path: keycloak
     repoURL: https://github.com/ysoni-redhat/rhdh-keycloak-argocd.git
-    targetRevision: main
+    targetRevision: phase-1-work
   syncPolicy:
     automated:
       selfHeal: false
